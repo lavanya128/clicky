@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Yoda",
+    "image": "https://vignette.wikia.nocookie.net/toonami/images/4/45/Yoda.jpg/revision/latest?cb=20131005193846"
+  },
+  {
+    "id": 2,
+    "name": "Asoka Tano",
+    "image": "https://vignette.wikia.nocookie.net/toonami/images/e/e7/Ahsoka_Tano.jpg/revision/latest?cb=20131005193825"
+  },
+  {
+    "id": 3,
+    "name": "Darth Maul",
+    "image": "https://cdn1.thr.com/sites/default/files/2014/01/darth_maul_clone_wars_a_l.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Anikin",
+    "image": "https://resizing.flixster.com/EgDc0yvhySf0OnLf4lUadHwwDbk=/206x305/v1.dDsxMDE0MDg7ajsxNzU1MTsxMjAwOzc4NjsxMDQ4"
+  },
+  {
+    "id": 5,
+    "name": "Bo-Katan Kryze",
+    "image": "https://vignette.wikia.nocookie.net/theclonewiki/images/2/26/Bo-Katan_KryzeHS.png/revision/latest?cb=20130204023312"
+  },
+  {
+    "id": 6,
+    "name": "Sabine Wren",
+    "image": "https://vignette.wikia.nocookie.net/starwarsrebels/images/a/af/The_Antilles_Extraction_19.png/revision/latest?cb=20161013075752"
+  },
+  {
+    "id": 7,
+    "name": "Obi Wan",
+    "image": "https://i.ytimg.com/vi/tr3sP2tauZ4/maxresdefault.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Darth Vader",
+    "image": "http://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/9/43//darth_vader_primary.jpg?itok=Su4eVdY5"
+  },
+  {
+    "id": 9,
+    "name": "Rex",
+    "image": "http://starwarsblog.starwars.com/wp-content/uploads/sites/6/2015/05/oblog_season2_rex_2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bail Organa",
+    "image": "http://vignette3.wikia.nocookie.net/starwarsrebels/images/5/59/Bail_Organa_profile.png/revision/latest?cb=20141007021524"
+  },
+  {
+    "id": 11,
+    "name": "Sheev Palpatine",
+    "image": "https://vignette2.wikia.nocookie.net/starwarsrebels/images/4/44/Tarkin-HS.jpg/revision/latest?cb=20150202194757"
+  },
+  {
+    "id": 12,
+    "name": "Fives",
+    "image": "http://vignette4.wikia.nocookie.net/starwars/images/6/62/FivesHS-Conspiracy.png/revision/latest?cb=20150410021843"
+  },
+  {
+    "id": 13,
+    "name": "C1-10P Chopper",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Chopper-Retina_b1e5f5ad.jpeg?region=0%2C63%2C1200%2C600&width=768"
+  },
+  {
+    "id": 14,
+    "name": "Zeb Orrelios",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6a/ZebOrrelios.png/revision/latest?cb=20141103040015"
+  },
+  {
+    "id": 15,
+    "name": "Hera Syndulla",
+    "image": "https://vignette.wikia.nocookie.net/greatmultiverse/images/d/d9/Hera_Syndulla_transparent_1.png/revision/latest?cb=20150420103829"
+  }
+]

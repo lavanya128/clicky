@@ -1,0 +1,14 @@
+.jumbotron {
+	/*background-image: url("imageback.jpg");*/
+	color: #5133A4;
+	text-align: center;
+	justify-content: center;
+
+}
+
+.jumbotron img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
